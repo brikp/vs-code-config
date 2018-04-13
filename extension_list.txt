@@ -1,0 +1,8 @@
+CoenraadS.bracket-pair-colorizer
+Zignd.html-css-class-completion
+asilverio.blackai-visual-studio-code
+ecmel.vscode-html-css
+formulahendry.auto-close-tag
+joshpeng.theme-onedark-sublime
+yzhang.markdown-all-in-one
+zhuangtongfa.Material-theme
